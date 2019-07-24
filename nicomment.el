@@ -31,8 +31,8 @@
   (message ""))
 
 (defvar nicomment--timeout-second-fixed-comment 3)
-(defvar-local nicomment--timer nil)
-(defvar-local nicomment--comments nil)
+(defvar nicomment--timer nil)
+(defvar nicomment--comments nil)
 
 ;;
 ;; see https://nullprogram.com/blog/2010/05/11/
