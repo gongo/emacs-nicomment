@@ -15,6 +15,7 @@
 ;; [https://github.com/tumashu/posframe]
 ;; [https://github.com/kusabashira/vim-nicomment]
 
+(eval-when-compile (require 'cl))
 (require 'posframe)
 
 ;;; Code:
